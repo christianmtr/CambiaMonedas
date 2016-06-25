@@ -4,4 +4,5 @@ El problema consiste en lograr juntar el monto de dinero ingresado a la aplicaci
 de monedas posibles.
 
 #
-Aplicación desarrollada en el curso Sistemas Inteligentes de la Universidad Señor de Sipán con el Dr. Jorge Gutierrez Gutierrez.
+Aplicación desarrollada como proyecto de unidad para el curso Sistemas Inteligentes de la Universidad Señor de Sipán
+con el Dr. Jorge Gutierrez Gutierrez.
